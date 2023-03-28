@@ -3,3 +3,7 @@ GodMode9 script that does Decrypt9 method of CTRNAND image transfer with added i
 For more information about this script, please check this GBAtemp forum post:
 
 https://gbatemp.net/threads/release-godmode9-scripts-megathread.482150/page-9#post-8550543
+
+
+Unofficial release by Natsuk4sh1i
+Last edited: 28.03.2023
